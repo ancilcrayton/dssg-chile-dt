@@ -1,6 +1,6 @@
 # Improving Workplace Safety through Proactive Inspections
 
-This repository is a copy of the project I participated in as a Data Science Fellow in the [Data Science for Social Good Fellowship](https://dssg.uchicago.edu/) at the University of Chicago. To keep track of recent updates by the University of Chicago's Center for Data Science and Public Policy, see [here](https://github.com/dssg/chile-dt-public).
+This repository is a copy of the project I participated in as a Data Science Fellow in the [Data Science for Social Good Fellowship](https://dssg.uchicago.edu/) at the University of Chicago. To keep track of recent updates on this project and to see the official project repo by the University of Chicago's Center for Data Science and Public Policy, see [here](https://github.com/dssg/chile-dt-public).
 
 Team: Ancil Crayton, Sonia Mendizabal, Emma Remy, Surabhi Trivedi, Mirian Lima (Project Manager), Joe Walsh (Technical Mentor)
 
